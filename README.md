@@ -1,4 +1,4 @@
-##👋 Welcome to My GitHub Profile!
+## 👋 Welcome to My GitHub Profile!
 My name is Emir, and I’m a Frontend Developer passionate about building intuitive and efficient user interfaces. I strive to write clean, maintainable, and adaptive code.
 
 ## 💻 Technologies & Tools
@@ -21,6 +21,8 @@ Develop side projects with TypeScript and Electron
 Create reusable component libraries
 
 ## 📬 Contact Me
+
 Telegram: https://t.me/Emir_Q
+
 Email: abdurakhimovemir@gmail.com
-LinkedIn: linkedin.com/in/emir-abdurakhimov-7b008225a
+
