@@ -22,6 +22,8 @@ Create reusable component libraries
 
 ## 📬 Contact Me
 
+Resume: https://abdurakhimov.info
+
 Telegram: https://t.me/Emir_Q
 
 Email: abdurakhimovemir@gmail.com
